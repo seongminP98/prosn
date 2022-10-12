@@ -301,7 +301,7 @@ frontend/src
 
 - [**Notion**](https://www.notion.so/PROSN-bc0a642949c94a299be953af914a15ed)
 
-  ![image-20220819054629597](./PROSN - 공통프로젝트.assets/image-20220819054629597.png)
+  ![image-20220819054629597](PROSN - 공통프로젝트.assets/image-20220819054629597.png)
 
 
 
@@ -311,13 +311,13 @@ frontend/src
 
   - **Brundown Chart** (우하향 그래프)
 
-    ![image-20220819054838809](./PROSN - 공통프로젝트.assets/image-20220819054838809.png)
+    ![image-20220819054838809](PROSN - 공통프로젝트.assets/image-20220819054838809.png)
 
-    ![image-20220819054902754](./PROSN - 공통프로젝트.assets/image-20220819054902754.png)
+    ![image-20220819054902754](PROSN - 공통프로젝트.assets/image-20220819054902754.png)
 
-    ![image-20220819054924330](./PROSN - 공통프로젝트.assets/image-20220819054924330.png)
+    ![image-20220819054924330](PROSN - 공통프로젝트.assets/image-20220819054924330.png)
 
-    ![image-20220819054944050](./PROSN - 공통프로젝트.assets/image-20220819054944050.png)
+    ![image-20220819054944050](PROSN - 공통프로젝트.assets/image-20220819054944050.png)
 
 
 
